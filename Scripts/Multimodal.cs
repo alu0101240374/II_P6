@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class Compass : MonoBehaviour
+public class Multimodal : MonoBehaviour
 {
     public float speed = 10f;
     private bool localitationActivated = false;
